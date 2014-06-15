@@ -1,0 +1,12 @@
+{
+  "name": "iptracker",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "restify": "2.8.x",
+    "mongodb": "1.x"
+  }
+}
